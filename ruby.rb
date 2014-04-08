@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+puts '<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -86,4 +86,5 @@
             <li><a href="../en/index.html" title="en">en</a></li>
         </ul>
     </body>
-</html>
+</html>'
+
